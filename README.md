@@ -37,6 +37,27 @@ MiniCompiler/
 
 ---
 
+---
+
+## 🧰 Used Tools & Technologies
+
+| Tool / Library     | Purpose                              |
+|--------------------|--------------------------------------|
+| **Python 3.x**     | Core programming language            |
+| **PLY (Lex & Yacc)** | Lexical analysis and parsing        |
+| **PyCharm IDE**    | Development and debugging environment |
+| **Markdown**       | Project documentation (`README.md`)  |
+| **Git & GitHub**   | Version control and project sharing  |
+
+---
+
+## 👩‍💻 Developer
+
+**Nazrana**  
+Final Year Computer Science & Engineering Student  
+🔬 Passionate about AI, compiler design, and building practical tools that help others learn.  
+🛠️ Built this project solo to deeply understand the inner workings of how compilers and interpreters process code.
+
 ## 🖥️ Demo Code
 
 Example code (`test_code.txt`):
@@ -59,24 +80,4 @@ while x < 8 {
 6
 7
 
----
-
-## 🧰 Used Tools & Technologies
-
-| Tool / Library     | Purpose                              |
-|--------------------|--------------------------------------|
-| **Python 3.x**     | Core programming language            |
-| **PLY (Lex & Yacc)** | Lexical analysis and parsing        |
-| **PyCharm IDE**    | Development and debugging environment |
-| **Markdown**       | Project documentation (`README.md`)  |
-| **Git & GitHub**   | Version control and project sharing  |
-
----
-
-## 👩‍💻 Developer
-
-**Nazrana**  
-Final Year Computer Science & Engineering Student  
-🔬 Passionate about AI, compiler design, and building practical tools that help others learn.  
-🛠️ Built this project solo to deeply understand the inner workings of how compilers and interpreters process code.
 
