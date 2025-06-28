@@ -53,8 +53,8 @@ MiniCompiler/
 
 ## 👩‍💻 Developer
 
-**Nazrana**  
-Final Year Computer Science & Engineering Student  
+**Nazrana Nahreen (Id: C231444) (5th semseter)**  
+Computer Science & Engineering Student (IIUC)
 🔬 Passionate about AI, compiler design, and building practical tools that help others learn.  
 🛠️ Built this project solo to deeply understand the inner workings of how compilers and interpreters process code.
 
