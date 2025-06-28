@@ -1,0 +1,21 @@
+a = 5;
+b = 10;
+c = 0;
+
+print a + b;
+print b - a;
+
+c = (a < b) and (b > 0);
+print c;
+
+c = (a > b) or (b > 0);
+print c;
+
+c = not (a > b);
+print c;
+
+if (a < b) and not (c == 0) {
+    print 100;
+} else {
+    print 200;
+}
